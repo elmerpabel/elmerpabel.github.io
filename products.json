@@ -1,17 +1,17 @@
 {
 	"products" : [
 		{
-			"name" : "Calça Floral Laranja Flare" ,
-			"price" : "39.90",
+			"name" : "Camisa Floral Laranja Flare" ,
+			"price" : "10.90",
 			"options" : [
 				{ "Tamanho" : "Único" }
 			],
 			"image" : "images/1518024878665.jpg",
-			"description" : "Calça Floral Laranja Flare Tamanho único (36 ao 40)."
+			"description" : "Camisa Floral Laranja Flare Tamanho único (36 ao 40)."
 		},
 		{
 			"name" : "Cropped Preto" ,
-			"price" : "39.90",
+			"price" : "10.90",
 			"options" : [
 				{ "Tamanho" : "Único" }
 			],
